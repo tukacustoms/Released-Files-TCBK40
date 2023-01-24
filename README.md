@@ -66,6 +66,18 @@ At first, this project was created to figure out all things needed to complete t
   
   ![image](https://user-images.githubusercontent.com/115516996/214233995-651348ac-a381-4cdf-867f-bf3216e4ae58.png)
 
+# Schematic
+
+![image](https://user-images.githubusercontent.com/115516996/214237870-b8e84007-0ea6-4141-89db-7ca58d9bb8b3.png)
+
+  Schematic for the TCBK40 was prety straight foward, only thing that needed was a custom symbol and footprint for the pro micro board, since will be used a pre-build board to be added to the finished pcb. For adding the corrected size for each keyboard switch was made a layout on "http://www.keyboard-layout-editor.com/" wich is the best for visualising the keyboard layout and ajusting for the best fitment and design.
+  To make the matrix connection and better to visualize, was written on the board all the rows and collums to be easier to verify while connecting, the rows are easier since is a straight horizontal connection on all switches (lines), but on the collums are a bit more different. Was chosen to use diagonal lines to be easier to program at first and be more likely to work, unfortunaly will use more GPIO PINS or make a custom matrix for the switches and reprogram it's position on info.json to save some GPIO but it's more difficult and could not work.
+  
+  ![image](https://user-images.githubusercontent.com/115516996/214242807-abb5780d-35d9-42d5-b549-d6f0123d3201.png)
+  (This is a second Draw to view again the connections)
+  
+
+  
 # Creating The PCB Design
 
 # Creating the PCB
