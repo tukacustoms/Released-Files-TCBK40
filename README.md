@@ -1,198 +1,202 @@
+<!-- README.pt-BR.md (Portuguese - Brazil) -->
 # Released-Files-TCBK40
 
 # TCBK40
-Welcome to the TCBK40 project, a 40% Custom Keyboard with RGB, lovingly crafted from scratch by Tuka Customs. Inspired by the HHK8 layout, this keyboard aims to be a compact and satisfactory option for both community testing of the QMK Firmware and as a daily driver for tech enthusiasts and creators.
+
+  Bem-vindo ao projeto TCBK40, um teclado personalizado de 40% com RGB, cuidadosamente desenvolvido do zero pela Tuka Customs. Inspirado no layout HHK8, este teclado tem como objetivo ser uma opção compacta e satisfatória tanto para testes comunitários do Firmware QMK quanto para uso diário de entusiastas e criadores de tecnologia.
 
 ![keyboard-layout](https://user-images.githubusercontent.com/115516996/214220018-d1240622-77c8-433f-96e1-704550308988.png)
 
-At first, this project was created to figure out all things needed to complete the first keyboard idea, the tcbk60, the main keyboard created by Tuka Customs.
+  Inicialmente, este projeto foi criado para descobrir todos os elementos necessários para concluir a primeira ideia de teclado, o TCBK60, o teclado principal criado pela Tuka Customs.
 
-# How it started?
+# Como tudo se iniciou?
 
-  The journey of TCBK40 began with a custom PCB designed for TCBK60, the original custom keyboard by Tuka Customs. However, this initial project faced challenges due to an outdated custom firmware that contained numerous unnecessary files and algorithms. Despite successful compilation attempts, it was evident that a simpler keyboard version was needed—one that featured custom layers while retaining the same components.
-  Inspiration struck when recalling an old macro-pad project, which sparked the idea of utilizing a pre-built Pro Micro board. This decision offered several advantages, including the convenience of soldering the Pro Micro to the finished PCB and the inclusion of a USB-C connector, known for its superior capabilities and widespread popularity in the market today.
+  A jornada do TCBK40 começou com um PCB personalizado projetado para o TCBK60, o teclado personalizado original da Tuka Customs. No entanto, esse projeto inicial enfrentou desafios devido a um firmware personalizado desatualizado, que continha muitos arquivos e algoritmos desnecessários. Apesar de tentativas bem-sucedidas de compilação, ficou evidente que era necessário uma versão de teclado mais simples, que apresentasse camadas personalizadas, mantendo os mesmos componentes.
+
+  A inspiração surgiu ao recordar um antigo projeto de macro-pad, o que despertou a ideia de utilizar uma placa Pro Micro pré-construída. Essa decisão ofereceu várias vantagens, incluindo a conveniência de soldar o Pro Micro ao PCB finalizado e a inclusão de um conector USB-C, conhecido por suas capacidades superiores e ampla popularidade no mercado atualmente.
   
   ![image](https://user-images.githubusercontent.com/115516996/214223540-ccb4da91-337c-464e-a0c2-f939b0339db3.png)
 
-# What processors could be the option and why the Pro micro (Atmega32u4)?
+# Quais seriam os possiveis micro controladores e porque o Pro micro (Atmega32u4)?
 
-  Nowadays we have many processors that can be used to make a custom keyboard, making a little question at first what one should we choose, and in this project wasn't diferent.
-  The ones that was chosen were ATmega32u4(Pro micro board), Raspberry Pi Pico (RP2040) and the famous STM32 Processor.
+  Atualmente, temos muitos processadores que podem ser utilizados para criar um teclado personalizado, o que torna a escolha inicial um pouco difícil. Neste projeto, não foi diferente, e os processadores escolhidos foram o ATmega32u4 (placa Pro Micro), o Raspberry Pi Pico (RP2040) e o famoso processador STM32.
  
-# Why didn't use Raspberry PI PICO?
+# Por que nao utilizar o Raspberry PI PICO?
 
 ![image](https://user-images.githubusercontent.com/115516996/214224287-f3fde7cd-7b2c-4d5f-add3-9545506abc65.png)
 ![image](https://user-images.githubusercontent.com/115516996/214224469-b21da7f4-d63d-49b5-b753-f6fb16c284ff.png)
 
-  The Raspberry PI PICO is a great option as a main processor for a pre-build board to add to the TCBK40, has 40 GPIO pins, 27 multifunctional GPIO pins, features a dual-core Arm Cortex-M0+ processor with 264kB internal RAM and support for up to 16MB of off-chip flash, has I2C and SPI Features.
-  Total GPIOS are more than enought to make Butter Keyboards Series, but it has some downsides:
-  - It uses micro usb conection, but can be changed using a usb-c shield but unfortunaly could use some GPIO's;
-  - More Difficult to find supply's for it in Brazil
-  - Uses an micro processor that is a bit propietary but nowadays the QMK Community made it able to use on QMK Firmware
+O Raspberry Pi Pico é realmente uma ótima opção como processador principal para uma placa pré-montada a ser adicionada ao TCBK40. Ele possui muitos pinos GPIO, recursos multifuncionais, um processador dual-core Arm Cortex-M0+ e memória interna de 264 kB, com suporte para até 16 MB de flash externo. Além disso, possui recursos I2C e SPI.
+
+O total de GPIOs é mais do que suficiente para criar a série Butter Keyboards, mas possui algumas desvantagens:
+
+Usa uma conexão micro USB, mas pode ser alterado para USB-C usando um shield, porém isso pode consumir alguns GPIOs.
+É mais difícil encontrar suprimentos para ele no Brasil.
+Utiliza um microprocessador um pouco proprietário, mas hoje em dia a Comunidade QMK tornou possível utilizá-lo no Firmware QMK
   
-# Why didn't use STM32 Processor
+# Porque nao usar o STM32 Processor
 
 ![image](https://user-images.githubusercontent.com/115516996/214225472-ef0a55bd-cbf2-41e1-9166-7d97b0a52f0e.png)
 
-  STM32 Processor is one of the best cost effective processors known, super fast and has plenty GPIO Pins to use it, 64K flash memory, has internal 4-16mhz crystal (but i recommend to use a external one),has USART connection wich is icredibly usefull, SPI and I2C Connection, a powerfull micro controller.
+  O processador STM32 é conhecido por ser um dos processadores mais eficientes em termos de custo, sendo super rápido e oferecendo muitos pinos GPIO para uso. Ele possui 64 KB de memória flash, um cristal interno de 4-16 MHz (porém recomendo o uso de um externo), conexão USART, que é incrivelmente útil, além de conexões SPI e I2C. É um microcontrolador poderoso.
   
 ![image](https://user-images.githubusercontent.com/115516996/214226004-98c2c98f-6d91-45f6-a479-87bae1c894dc.png)
     
-  This one of the best development boards known, used in many areas like 3d printers and CNC machines motherboards, and for a keyboard processor it's one of the best ones, unfortunaly it wasn't used in this project just because the ATMEGA32u4 is a processor that is most used by Tuka Customs and most known for the area, making it more acessible for every person, easier to find and has more pre-build development boards on market, but STM32 family will be the best for a Custom PCB.
+  Este é um dos melhores placas de desenvolvimento conhecidos, usados em muitas áreas como impressoras 3D e placas-mãe de máquinas CNC. E para processadores de teclados, é um dos melhores disponíveis. Infelizmente, não foi usado neste projeto apenas porque o ATMEGA32u4 é um processador mais utilizado pela Tuka Customs e é mais conhecido na área, tornando-o mais acessível para todas as pessoas, mais fácil de encontrar e com mais placas de desenvolvimento pré-construídas disponíveis no mercado. No entanto, a família STM32 será a melhor para um PCB personalizado.
   
-# Pro Micro - The Chosen Processor
-  To simplify the design and development process, a switch was made to a simpler keyboard version with custom layers and shared components. Enter the Pro Micro, an ATmega32u4-based board with a USB-C connector, chosen for its widespread popularity and accessibility.
-    
-# The Power of QMK and the Quest for a Custom Firmware
+# Pro Micro - O Processador Escolhido
 
-  Since the choosen firmware was the QMK for all Butter Keyboards Series, while the PCB idea is beeing finished, to make the custom case, and be more acessible as possible, the custom firmware was being studied to be made from scratch, the first firmware made was based on a standart 60-ansi keyboard but has a old firmware built on it, and for make it as a scratch was created a file base on: "https://kbfirmware.com/" wich is super outdated, but at first with help of the QMK Community was corrected and ajusted to work as it is, still with some features, files, algoritms outdated making it be compiled and .hex file created wich probably has some problems.
-  The turning point came with the discovery of "qmk new-keyboard" in QMK SYS, which generated all the required files for a custom firmware with updated algorithms and core files. This streamlined the programming process, eliminating unneeded files like "keyboardname.[ch]". The core file now became the info.json, containing essential configurations for manufacturer details, keyboard name display, bootloader, diode direction, feature settings, RGB light configuration, matrix pins, processor specifications, USB settings, and most importantly, the keyboard layout.
+Para simplificar o processo de design e desenvolvimento, foi feita uma mudança para uma versão mais simples de teclado com camadas personalizadas e componentes compartilhados. Surge o Pro Micro, uma placa baseada no ATmega32u4 com conector USB-C, escolhida por sua ampla popularidade e acessibilidade no mercado.
+    
+# O Poder do QMK e a Busca por um Firmware Personalizado
+
+Desde que o firmware escolhido foi o QMK para toda a série Butter Keyboards, enquanto a ideia do PCB estava sendo finalizada para criar o case personalizado e torná-lo o mais acessível possível, o firmware personalizado estava sendo estudado para ser criado do zero. O primeiro firmware foi baseado em um teclado padrão 60-ansi, mas tinha um firmware antigo incorporado a ele. Para criar um firmware do zero, foi criado um arquivo baseado em "https://kbfirmware.com/", que estava extremamente desatualizado. Com a ajuda da Comunidade QMK, ele foi corrigido e ajustado para funcionar como deveria, embora ainda possuísse alguns recursos, arquivos e algoritmos desatualizados, o que pode causar problemas ao compilar e gerar o arquivo .hex.
+
+O ponto de virada veio com a descoberta do "qmk new-keyboard" no QMK SYS, que gerou todos os arquivos necessários para um firmware personalizado com algoritmos e arquivos principais atualizados. Isso agilizou o processo de programação, eliminando arquivos desnecessários como "keyboardname.[ch]". O arquivo principal agora passou a ser o info.json, que contém configurações essenciais para detalhes do fabricante, exibição do nome do teclado, bootloader, direção dos diodos, configurações de recursos, configuração de luz RGB, pinos de matriz, especificações do processador, configurações USB e, o mais importante, o layout do teclado.
   
   ![image](https://user-images.githubusercontent.com/115516996/214229763-13981989-774c-45e7-955b-63d56a7eeeec.png)
   
-  The Best part of it, is that on readme.md file has all the informations of the firmware creator for anybody flash their keyboard using it.
-  On the outdated version on the QMK Firmware needed the keyboard.[ch] files, wich has the layout position for each row and collum to be substitute, now it won't need anymore because the info.json has the positiona and size of each key:
+A melhor parte disso é que o arquivo readme.md contém todas as informações do criador do firmware para que qualquer pessoa possa atualizar seu teclado usando-o.
+
+Na versão desatualizada do firmware no QMK, eram necessários os arquivos keyboard.[ch], que continham a posição do layout para cada linha e coluna a serem substituídas. Agora, isso não será mais necessário porque o info.json contém a posição e o tamanho de cada tecla:
   
 ![image](https://user-images.githubusercontent.com/115516996/214231061-71b2df3c-0252-476f-a71b-959d993328be.png)
 
-# Customization and Layers - Enhancing the User Experience
+# A Customização e Camadas - Aprimorando a Experiência do Usuário
 
-  The TCBK40 boasts a default layout divided into three layers, each accessible through a combination of keys. Additionally, the keyboard features a split space bar, customizable to any key. These features were thoughtfully designed to maximize functionality while maintaining compactness.
-  The default layout will be splited into 3 layers that will be acessible by using 2 keys togheter with other keys, and another feature for the keyboard is the split space bar that on default both are space bars but can be changed to any key:
+O TCBK40 possui um layout padrão dividido em três camadas, cada uma acessível por meio de uma combinação de teclas. Além disso, o teclado apresenta uma barra de espaço dividida, que pode ser personalizada para qualquer tecla. Esses recursos foram cuidadosamente projetados para maximizar a funcionalidade, ao mesmo tempo em que mantêm a compacticidade.
+
+O layout padrão será dividido em 3 camadas, que serão acessíveis usando duas teclas em conjunto com outras teclas. Além disso, outra característica do teclado é a barra de espaço dividida, que, por padrão, consiste em duas teclas de espaço, mas pode ser alterada para qualquer outra tecla conforme a preferência do usuário. Essas funcionalidades foram incorporadas para oferecer uma experiência de digitação personalizada e eficiente, permitindo ao usuário adaptar o teclado às suas necessidades e preferências individuais.
   
   ![image](https://user-images.githubusercontent.com/115516996/214231836-dbd5726b-e500-45d1-bb0e-21140c98f432.png)
 
-# Problems and Solutions ( Firmware )
+# Problemas e Soluções (Firmware)
 
-  During the development of the custom firmware for TCBK40, I encountered a few minor challenges, but fortunately, most of them were swiftly resolved.
-  The main issue arose when I was filling up all the information and programming the layout and functions for the keyboard. As I was adjusting the firmware, I found that some of the files and algorithms were outdated, leading to unexpected errors in the process. One particular problem revolved around the keyboard layout, where an error with arguments arose. The layout was limited to 39 arguments, but I had 41/42 arguments in the layout. Initially, I believed that the split space bar might be causing this issue, and I considered combining it into one to potentially resolve the argument count problem. However, this did not yield the desired solution.
+Durante o desenvolvimento do firmware personalizado para o TCBK40, encontrei algumas pequenas dificuldades, mas felizmente, a maioria delas foi resolvida rapidamente.
 
-Upon further investigation and seeking assistance from others, I discovered that the "keyboard" folder contained both unnecessary files (Keyboardname.[ch]) and that the info.json file was missing one key to be correctly mapped to the keyboard. Rectifying this by making the necessary adjustments and removing the extra commas at the end of each line in the layout, I successfully resolved the issue. With the firmware now corrected, I recompiled it and generated the final hex file, ready for flashing onto the keyboard.
+O principal problema surgiu enquanto eu estava preenchendo todas as informações e programando o layout e as funções do teclado. Enquanto ajustava o firmware, percebi que alguns dos arquivos e algoritmos estavam desatualizados, o que causou erros inesperados no processo. Um problema específico estava relacionado ao layout do teclado, onde ocorreu um erro com os argumentos. O layout estava limitado a 39 argumentos, mas eu tinha 41/42 argumentos no layout. Inicialmente, pensei que a barra de espaço dividida poderia estar causando esse problema e considerei combiná-la em uma única barra de espaço para resolver o problema de contagem de argumentos. No entanto, essa solução não surtiu o efeito desejado.
+
+Após uma investigação mais aprofundada e buscando ajuda de outras pessoas, descobri que a pasta "keyboard" continha arquivos desnecessários (Keyboardname.[ch]) e que o arquivo info.json estava faltando uma tecla para ser corretamente mapeado para o teclado. Corrigindo isso com os ajustes necessários e removendo as vírgulas extras no final de cada linha no layout, consegui resolver o problema com sucesso. Com o firmware corrigido, eu o recompilei e gerei o arquivo hex final, pronto para ser gravado no teclado.
   
   ![image](https://user-images.githubusercontent.com/115516996/214233995-651348ac-a381-4cdf-867f-bf3216e4ae58.png)
   
-  This experience underscored the importance of meticulous attention to detail and the significance of staying up-to-date with the latest changes in firmware development. By overcoming these challenges, I was able to ensure the stability and functionality of the custom firmware, creating a smooth and satisfying user experience for the TCBK40 keyboard.
+Essa experiência enfatizou a importância de prestar atenção meticulosa aos detalhes e a significância de estar sempre atualizado com as últimas mudanças no desenvolvimento de firmware. Superando esses desafios, pude garantir a estabilidade e funcionalidade do firmware personalizado, criando uma experiência de usuário suave e satisfatória para o teclado TCBK40.
 
 # Schematic
 
 ![image](https://user-images.githubusercontent.com/115516996/214237870-b8e84007-0ea6-4141-89db-7ca58d9bb8b3.png)
 
-  The schematic for the TCBK40 keyboard was straightforward and well-planned, with careful consideration given to the design and connections. To ensure accurate representation, a custom symbol and footprint were created for the Pro Micro board, which was selected as the pre-built board to be added to the finished PCB. This decision allowed for easier integration and ensured compatibility with other components.
-  To facilitate the process of adding the correct size for each keyboard switch, a layout was created using the "http://www.keyboard-layout-editor.com/" tool. This platform proved to be an invaluable resource for visualizing the keyboard layout and making necessary adjustments to achieve the best fitment and design.
-  For the matrix connection, the schematic was thoughtfully designed to provide clear visual cues. All the rows and columns were explicitly labeled on the board, making it easier to verify and connect the components. The horizontal connection for the rows (lines) was relatively straightforward. However, the columns (columns) presented a unique challenge. To simplify programming and increase the likelihood of success, diagonal lines were chosen for the column connections.
+  O esquematico para o teclado TCBK40 foi direto e bem planejado, com uma consideração cuidadosa dada ao design e às conexões. Para garantir uma representação precisa, um símbolo personalizado e uma "footprint" (layout) foram criados para a placa Pro Micro, que foi selecionada como a placa pré-montada a ser adicionada ao PCB finalizado. Essa decisão permitiu uma integração mais fácil e garantiu a compatibilidade com outros componentes.
+
+  Para facilitar o processo de adicionar o tamanho correto para cada switch de teclado, um layout foi criado usando a ferramenta "http://www.keyboard-layout-editor.com/". Essa plataforma se mostrou uma ferramenta inestimável para visualizar o layout do teclado e fazer ajustes necessários para obter o melhor ajuste e design.
+
+  Quanto à conexão da matriz, o esquema foi cuidadosamente projetado para fornecer indicações visuais claras. Todas as linhas e colunas foram rotuladas explicitamente na placa, tornando mais fácil verificar e conectar os componentes. A conexão horizontal para as linhas foi relativamente simples. No entanto, as colunas apresentaram um desafio único. Para simplificar a programação e aumentar a probabilidade de sucesso, foram escolhidas linhas diagonais para as conexões das colunas.
   
   ![image](https://user-images.githubusercontent.com/115516996/214242807-abb5780d-35d9-42d5-b549-d6f0123d3201.png)
-  (This is a second Draw to view again the connections)
+  (Esta é a segunda imagem para visualizar novamente as conexões)
 
-  As a consequence, this approach required the utilization of additional GPIO pins, or alternatively, the creation of a custom matrix for the switches and reprogramming its position in the info.json file. This decision was made to potentially save some GPIO pins, although it came with its complexities and the possibility that it may not work perfectly.
+Como consequência, essa abordagem exigiu a utilização de pinos GPIO adicionais ou, alternativamente, a criação de uma matriz personalizada para os switches e a reprogramação de sua posição no arquivo info.json. Essa decisão foi tomada para potencialmente economizar alguns pinos GPIO, embora tenha suas complexidades e a possibilidade de não funcionar perfeitamente.
   
 
-# Creating The PCB Design
-
-  After studys and searching for some inspirations to add to the keyboard
-
-# Creating the PCB
-
 # Case
-  Designing the case for the TCBK40 keyboard was a crucial step in the overall project. To ensure a well-structured and aesthetically pleasing case, the process began with importing the finished PCB into Fusion 360. The utilization of Kicad's 3D viewer enabled the team to preview the appearance of the keyboard with the desired components mounted on it, providing valuable insights into the final look and feel of the product.
+  Projetar o case para o teclado TCBK40 foi uma etapa crucial no projeto geral. Para garantir um case bem estruturado e esteticamente agradável, o processo começou com a importação do PCB finalizado para o Fusion 360. A utilização do visualizador 3D do Kicad permitiu à equipe visualizar a aparência do teclado com os componentes desejados montados nele, fornecendo informações valiosas sobre o visual final do produto e sua sensação.
   ![front view](https://user-images.githubusercontent.com/115516996/230317285-8d12554d-603a-4e27-bb1d-752aa193ef91.png)
 ![Back side](https://user-images.githubusercontent.com/115516996/230317276-aa0b36cc-b4ff-4336-866c-8636a7fba0dc.png)
 
-However, there was a challenge encountered during this stage. Some components' 3D models were missing from the chosen library, particularly the step files. To overcome this, the team decided to import all the step files for the components to simplify the export to Fusion 360. By doing so, every single component could be placed in its correct position and imported seamlessly into the overall design.
-  
-The primary focus for the case design was the creation of the Switch Plate. Since the main PCB is intended to be attached solely to the plate, this step was of utmost importance to the structural integrity of the keyboard. The placement and quantity of standoffs were meticulously considered to ensure stability and support for the keyboard during use. To achieve the desired result, eight standoffs were strategically distributed, with four on the top and four on the bottom.
+  No entanto, durante essa etapa, enfrentamos um desafio. Alguns modelos 3D de componentes estavam faltando na biblioteca escolhida, especialmente os arquivos no formato STEP. Para superar esse obstáculo, a equipe decidiu importar todos os arquivos STEP dos componentes para simplificar a exportação para o Fusion 360. Dessa forma, cada componente pôde ser colocado em sua posição correta e importado perfeitamente para o design geral.
 
-For the material of the plate, Clear Acrylic was chosen. This decision was made to allow the diodes on the top part of the PCB to be exposed and visible, showcasing the custom PCB and enhancing the keyboard's aesthetics. In the pursuit of excellence, Chat GPT, an AI with remarkable capabilities, proved to be a valuable resource. It assisted in solving various mathematical problems, such as determining keyboard keycap sizes and spacing. Additionally, it provided insights on programming questions related to keyboard features, including creating a Python software to edit overall functions in the C++ files of the keyboard.
+  O foco principal do design do case foi a criação da "Switch Plate" (placa onde os switches são montados). Como a placa principal do PCB é projetada para ser fixada exclusivamente à "Switch Plate", esse passo foi de extrema importância para a integridade estrutural do teclado. A colocação e quantidade dos espaçadores (standoffs) foram cuidadosamente consideradas para garantir estabilidade e suporte ao teclado durante o uso. Para alcançar o resultado desejado, oito espaçadores foram distribuídos estrategicamente, quatro na parte superior e quatro na parte inferior.
 
-  Continuing with the progress of the Switch Plate, the team delved into understanding the correct spacing, sizing, and data sheets of the MX Switches. Valuable information was obtained from Kobuss's video on case design, which served as a source of inspiration and guidance for the project.
-  https://www.youtube.com/watch?v=DsW-hKeB3mc&t=632s
-  
-  Moreover, a significant discovery was made in the form of a datasheet by Sparkfun, which presented all the recommended sizes for the switch and plate mounts. Armed with this data, the team underwent the necessary transformations to convert the size units from inches to millimeters, aligning with the chosen working units in Fusion 360. As part of the design process, precise measurements were learned and implemented for cutting the plate to accommodate the switches.
+  Para o material da placa, foi escolhido o acrílico transparente (Clear Acrylic). Essa decisão foi tomada para permitir que os diodos na parte superior do PCB fiquem expostos e visíveis, exibindo o PCB personalizado e melhorando a estética do teclado. Em busca da excelência, a Chat GPT, uma IA com notáveis habilidades, provou ser um recurso valioso. Ela ajudou a resolver diversos problemas matemáticos, como determinar os tamanhos e espaçamentos das teclas do teclado. Além disso, forneceu insights sobre questões de programação relacionadas às funcionalidades do teclado, inclusive na criação de um software em Python para editar funções gerais nos arquivos C++ do teclado.
+
+  Continuando com o progresso da "Switch Plate", a equipe aprofundou-se no entendimento do espaçamento correto, dimensionamento e fichas técnicas dos switches MX. Informações valiosas foram obtidas no vídeo de design de cases do Kobuss, que serviu como fonte de inspiração e orientação para o projeto.
+https://www.youtube.com/watch?v=DsW-hKeB3mc&t=632s
+
+  Além disso, uma descoberta significativa foi feita na forma de uma ficha técnica da Sparkfun, que apresentava todos os tamanhos recomendados para a montagem do switch e da placa. Armados com esses dados, a equipe realizou as transformações necessárias para converter as unidades de tamanho de polegadas para milímetros, alinhando-se às unidades de trabalho escolhidas no Fusion 360. Como parte do processo de design, medidas precisas foram aprendidas e implementadas para cortar a placa e acomodar os switches.
   
   ![image](https://user-images.githubusercontent.com/115516996/230322543-25ff6450-1e6f-4a34-bcad-76e51166fb2f.png)
 
   ![image](https://user-images.githubusercontent.com/115516996/230322608-69c2d541-3153-4961-9ac3-b713934f1529.png)
 
-  Additionally, to enhance functionality and user experience, a thoughtful feature was introduced - circular cuts at each vertex on the plate. This design decision not only allowed for secure switch placement but also enabled easy swapping of switches without the risk of damaging the plate. This added benefit, in conjunction with a visually appealing design, enhanced the overall allure of the TCBK40 keyboard.
+  Além disso, para aprimorar a funcionalidade e a experiência do usuário, uma característica cuidadosa foi introduzida - cortes circulares em cada vértice da placa. Essa decisão de design não apenas permitiu a colocação segura dos switches, mas também possibilitou a troca fácil dos switches sem o risco de danificar a placa. Esse benefício adicional, em conjunto com um design visualmente atraente, aumentou o apelo geral do teclado TCBK40.
 
   ![another material render](https://github.com/tukacustoms/Released-Files-TCBK40/assets/115516996/b3f183d2-0dcf-4abf-860f-348f29c68e4e)
 
- # The Power of AI - Chat GPT in Action
-Throughout the project, Chat GPT, an AI language model, was invaluable in assisting with mathematical calculations, programming queries, and design optimizations. It proved to be a creative and knowledgeable resource in the pursuit of perfection.
+ # A Potência da IA - Chat GPT em Ação
+
+  Ao longo do projeto, o Chat GPT, um modelo de linguagem de IA, foi inestimável em auxiliar com cálculos matemáticos, dúvidas de programação e otimizações de design. Ele se mostrou uma fonte criativa e conhecedora na busca pela perfeição.
+  O Chat GPT também foi uma ferramenta útil para fornecer referências e fontes de inspiração. Quando a equipe precisou de orientação ou informações específicas sobre design de teclados, o Chat GPT foi capaz de direcionar para vídeos, artigos ou sites relevantes, facilitando o processo de pesquisa e aprendizado.
   
 # Lessons Learned about Switch Plate Design
 
-During the process of designing the switch plate for the TCBK40 keyboard, several valuable lessons were learned that significantly improved the efficiency and accuracy of the project.
+  Durante o processo de design da placa de switches para o teclado TCBK40, várias lições valiosas foram aprendidas, o que melhorou significativamente a eficiência e a precisão do projeto.
 
 ![Keyboard case v26 close](https://github.com/tukacustoms/Released-Files-TCBK40/assets/115516996/d3682dd1-0710-4e38-ab72-60494f6e0b7b)
 
-1. **Matching Switch Sizes and Spacing**: Initially, the first row of measurements matched perfectly, with each switch spaced at 1U (19.05mm) apart. However, complications arose in the subsequent rows due to the presence of different key sizes (2-2.25U, 2-1.75U, 7-1.25U). The challenge was to ensure that the distances between switches in the second row matched the switch placement on the PCB. After utilizing Chat GPT to investigate and think logically about the issue, it was discovered that the 21.4mm distance between switches was achieved by summing the first key size with the second key size and dividing it by 2. This method provided an approximate value for the spacing between different key sizes. Importantly, the calculations were made with exact values from the datasheet but rounded up to account for variations.
+1. **Correspondência de Tamanhos e Espaçamento dos Switches**: Inicialmente, a primeira linha de medições estava perfeitamente alinhada, com cada switch espaçado em 1U (19,05 mm) de distância. No entanto, surgiram complicações nas linhas subsequentes devido à presença de diferentes tamanhos de teclas (2-2.25U, 2-1.75U, 7-1.25U). O desafio foi garantir que as distâncias entre os switches na segunda linha correspondessem à colocação dos switches no PCB. Após utilizar o Chat GPT para investigar e pensar logicamente sobre o problema, foi descoberto que a distância de 21,4 mm entre os switches foi alcançada somando-se o primeiro tamanho de tecla com o segundo tamanho de tecla e dividindo por 2. Esse método forneceu um valor aproximado para o espaçamento entre diferentes tamanhos de teclas. Importante ressaltar que os cálculos foram feitos com valores exatos da ficha técnica, mas arredondados para levar em conta variações.
 
-2. **Enhancing Switch Plate Design with Keyboard Layout Editor**: A valuable approach to designing the switch plate was found by using http://www.keyboard-layout-editor.com/. This website facilitated the organization and design of the desired layout by allowing users to change and add key sizes, layers, rotations, and colors. After completing the layout, it was saved by clicking on the perma link button, and the raw data was copied for the next step.
+2. **Aprimorando o Design da Placa de Switches com o Keyboard Layout Editor**: Uma abordagem valiosa para o design da placa de switches foi encontrada ao utilizar o site http://www.keyboard-layout-editor.com/. Essa plataforma facilitou a organização e o design do layout desejado, permitindo aos usuários alterar e adicionar tamanhos de teclas, camadas, rotações e cores. Após concluir o layout, ele foi salvo clicando no botão "perma link" e os dados brutos foram copiados para a próxima etapa.
 
-3. **Creating Vector Drawings for Switch Plate Design**: Building on the knowledge from the previous lesson, the next step involved making vector drawings for the switch plate based on the raw data provided by the keyboard layout. This eliminated the need to manually measure and calculate all the dimensions from scratch. By visiting http://builder.swillkb.com/, users could configure the plate design, including switch type, stabilizer type, plate corners, and more. This approach saved significant time and ensured the best quality for the switch plate.
+3. **Criando Desenhos Vetoriais para o Design da Placa de Switches**: Construindo sobre o conhecimento da lição anterior, a próxima etapa envolveu a criação de desenhos vetoriais para a placa de switches com base nos dados brutos fornecidos pelo layout do teclado. Isso eliminou a necessidade de medir e calcular manualmente todas as dimensões do zero. Ao visitar o site http://builder.swillkb.com/, os usuários puderam configurar o design da placa, incluindo o tipo de switch, o tipo de estabilizador, os cantos da placa e muito mais. Essa abordagem economizou tempo significativo e garantiu a melhor qualidade para a placa de switches.
 
-In conclusion, through the journey of designing the switch plate, the team gained insights into effective spacing techniques for switches, leveraged innovative tools like the Keyboard Layout Editor and http://builder.swillkb.com/, and experienced the power of using AI assistance (Chat GPT) to solve design challenges. 
+Em conclusão, durante a jornada de design da placa de switches, a equipe obteve insights sobre técnicas eficazes de espaçamento para os switches, aproveitou ferramentas inovadoras como o Keyboard Layout Editor e o http://builder.swillkb.com/, e experimentou o poder de usar a assistência de IA (Chat GPT) para resolver desafios de design.
   
-# Putting everything togheter
+# Unindo tudo
 
-The assembly process for the TCBK40 keyboard, with its PCB-mounted stabilizers, involves several key steps to ensure a smooth and successful build:
+O processo de montagem do teclado TCBK40, com seus estabilizadores montados no PCB, envolve várias etapas-chave para garantir uma montagem suave e bem-sucedida:
 
-1. **SMD Parts and PCB Stencil**: Begin by adding the Surface Mount Device (SMD) components to the PCB. These components require careful attention to detail, and it is highly recommended to use a PCB stencil to reduce the risk of burning components and to facilitate precise soldering. Apply solder paste through the stencil onto the designated areas for SMD components.
+1. **Componentes SMD e PCB Stencil**: Comece adicionando os componentes de montagem em superfície (SMD) ao PCB. Esses componentes exigem atenção cuidadosa aos detalhes, e é altamente recomendável usar um stencil de PCB para reduzir o risco de danificar os componentes e facilitar a soldagem precisa. Aplique pasta de solda através do stencil nas áreas designadas para os componentes SMD.
 
-2. **Place Components and Stabilizers**: After the SMD parts are in place, proceed to add the through-hole components to the PCB. These components are typically larger and easier to handle. Additionally, install the PCB-mounted stabilizers into their designated positions.
+2. **Colocação de Componentes e Estabilizadores**: Após os componentes SMD estarem no lugar, adicione os componentes de furo passante ao PCB. Esses componentes geralmente são maiores e mais fáceis de manusear. Além disso, instale os estabilizadores montados no PCB em suas posições designadas.
 
-3. **Microcontroller Placement**: The TCBK40 keyboard design incorporates a Pro Micro board, which is pre-soldered to the finished PCB. Since the Pro Micro board will sit between other components on the backside, it is best to leave it as the last component to be added. This ensures that it does not obstruct access to other parts of the PCB during assembly.
+3. **Posicionamento do Microcontrolador**: O design do teclado TCBK40 incorpora uma placa Pro Micro, que já vem pré-soldada no PCB finalizado. Como a placa Pro Micro ficará entre outros componentes no verso, é melhor deixá-la como o último componente a ser adicionado. Isso garante que ela não obstrua o acesso a outras partes do PCB durante a montagem.
 
-4. **Switch Placement and Soldering**: For keyboards that require soldering of individual switches, a recommended approach is to initially place some switches onto the main PCB. This step helps to ensure that the switches are correctly aligned and prevents any potential bending or misalignment during the soldering process. Once the initial switches are securely in place, the rest of the switches can be soldered onto the PCB.
-
-5. **Completing the Case**: After the PCB assembly is finished, the switch plate and case can be assembled. The switch plate should align perfectly with the switches on the PCB. Depending on the chosen design, the case may be made of materials like clear acrylic to showcase the custom PCB. The standoffs on the case should be strategically positioned and of sufficient quantity to support the keyboard's stability during use.
-
-6. **Testing and Finishing**: Before finalizing the assembly, it is crucial to thoroughly test the keyboard's functionality. Ensure that all switches register keystrokes correctly and that the PCB-mounted stabilizers are properly functioning. Additionally, verify that the Pro Micro board is functioning as expected.
+4. **Posicionamento e Soldagem dos Switches**: Para teclados que exigem a soldagem de switches individuais, uma abordagem recomendada é colocar inicialmente alguns switches no PCB principal. Esse passo ajuda a garantir que os switches estejam cor
 
    ![Keyboard_case_2023-Jul-07_09-18-37PM-000_CustomizedView6189358300](https://github.com/tukacustoms/Released-Files-TCBK40/assets/115516996/56c6411c-5285-478e-bd8b-542953b9d3cf)
 
-# Troubleshooting and Solutions during Testing
+# Resolução de Problemas e Soluções durante os Testes.
 
-During the testing phase of the TCBK40 keyboard, several issues were encountered that needed to be addressed to ensure the keyboard's functionality and usability. Let's examine the problems faced and the solutions implemented:
+  Durante a fase de teste do teclado TCBK40, foram encontrados vários problemas que precisaram ser resolvidos para garantir a funcionalidade e usabilidade do teclado. Vamos examinar os problemas enfrentados e as soluções implementadas:
 
-1. **RGB Lighting Issues**: Initially, when testing the keyboard without soldering the Pro Micro board and switches, the RGB lighting did not function as expected. Some keys' RGB lighting was not working, and there were brightness and color discrepancies among the LEDs.
+1. **Problemas com a Iluminação RGB**: Inicialmente, durante os testes do teclado sem a soldagem da placa Pro Micro e dos switches, a iluminação RGB não funcionou como esperado. Algumas teclas não acendiam corretamente, e havia discrepâncias de brilho e cor entre os LEDs.
 
-   - Solution: Upon soldering everything in place, the RGB lighting issue was resolved, and the lighting started working correctly. This indicates that proper soldering of components is crucial for reliable functionality.
+   - Solução: Ao soldar todos os componentes no lugar, o problema da iluminação RGB foi resolvido e ela passou a funcionar corretamente. Isso indica que a soldagem adequada dos componentes é crucial para garantir um funcionamento confiável.
 
-2. **Non-Responsive Keys**: After soldering the switches and the Pro Micro board, some keys still didn't register keystrokes during testing.
+2. **Teclas não Respondendo**: Após soldar os switches e a placa Pro Micro, algumas teclas ainda não registravam as teclas pressionadas durante os testes.
 
-   - Solution: To address non-responsive keys, the firmware was carefully reviewed, and possible errors in the keymap were identified. After correcting these errors, all keys registered keystrokes as intended.
+   - Solução: Para corrigir as teclas que não respondiam, o firmware foi cuidadosamente revisado, e possíveis erros no mapa de teclas foram identificados. Após corrigir esses erros, todas as teclas registraram as teclas pressionadas conforme o esperado.
 
-3. **LED Issues and Brightness**: When testing RGB commands and animations, some LEDs didn't match the top part LEDs, and brightness inconsistencies were noticed.
+3. **Problemas com LEDs e Brilho**: Ao testar comandos RGB e animações, alguns LEDs não correspondiam aos LEDs da parte superior e foram observadas inconsistências de brilho.
 
-   - Solution: To resolve LED alignment issues and brightness inconsistencies, thorough testing was conducted to ensure all LEDs were correctly positioned and functional. Additionally, adjustments were made to the firmware to ensure that the RGB lighting settings were accurate and consistent.
+   - Solução: Para resolver os problemas de alinhamento dos LEDs e as inconsistências de brilho, foram realizados testes detalhados para garantir que todos os LEDs estivessem corretamente posicionados e funcionando corretamente. Além disso, ajustes foram feitos no firmware para garantir que as configurações da iluminação RGB fossem precisas e consistentes.
 
-4. **Layer and Keymap Improvements**: The initial keymap was found to be lacking some essential keys for regular typing and daily use.
+4. **Melhorias no Mapa de Teclas e Camadas**: O mapa de teclas inicial não incluía algumas teclas essenciais para uso diário.
 
-   - Solution: The firmware's keymap was refined and improved to include all necessary keys for daily use, technology hobbies, studies, work, and fun. This ensures that the keyboard is versatile and suitable for various tasks and activities.
+   - Solução: O mapa de teclas do firmware foi refinado e aprimorado para incluir todas as teclas necessárias para uso diário, hobbies de tecnologia, estudos, trabalho e diversão. Isso garante que o teclado seja versátil e adequado para várias tarefas e atividades.
 
-By addressing these issues and implementing appropriate solutions, the TCBK40 keyboard can now deliver a satisfactory user experience, with responsive keys, functional RGB lighting, and a well-designed keymap suitable for daily use and other tasks. It's essential to thoroughly test the keyboard and make iterative improvements to achieve the desired functionality and performance.
+Ao resolver esses problemas e implementar as soluções adequadas, o teclado TCBK40 pode agora proporcionar uma experiência satisfatória ao usuário, com teclas responsivas, iluminação RGB funcional e um mapa de teclas bem projetado adequado para uso diário e outras tarefas. É essencial testar cuidadosamente o teclado e fazer melhorias iterativas para alcançar a funcionalidade e desempenho desejados.
 
-# Choosing the Perfect Keyboard Switches
+#  Escolhendo os Switches de Teclado Perfeitos
 
-  Choosing the keyboard switches could be a challeging thing, specially to choose for a final product options, mechanical keyboard switches are divided in 3 types, linears, tactiles and clicky
+  Escolher os switches de teclado pode ser um desafio, especialmente ao selecionar opções para um produto final. Os switches mecânicos são divididos em 3 tipos: lineares, táteis e clicky.
 
-  Linear switches are switches with no bumpsj that you can feel when you do the keyoress, they press smothly and the keystroke register before the key hits the bottom, the advantages of this is about the fast response of the overal keystroke but it applys for the downside, witch is beeing the sensibility of the ovreal switches since its current start passing throught as soon as it moves
+  Os switches lineares são switches sem bumps que você pode sentir quando pressiona a tecla. Eles são pressionados suavemente e o registro da tecla ocorre antes dela atingir o fundo. A vantagem disso é a resposta rápida do acionamento da tecla, mas isso também resulta na sensibilidade dos switches, já que a corrente começa a passar assim que eles se movem.
   ![image](https://github.com/tukacustoms/TCBK40/assets/115516996/7b9a5ee8-d93d-4560-b252-a01dfdd05c9d)
 
-  Tactile switches has a little bump making it tactile as you press it, having a quiet audible click on each keystroke, offering a great feedback experience when typing making you kno by the feel and sound that everything is working properly
+  Os switches táteis têm um pequeno bump que torna o acionamento tátil quando você pressiona a tecla, proporcionando um clique auditivo suave em cada acionamento. Isso oferece uma ótima experiência de feedback ao digitar, fazendo com que você saiba, pelo toque e som, que tudo está funcionando corretamente.
   ![image](https://github.com/tukacustoms/TCBK40/assets/115516996/14f68b43-ecd7-45ce-9af2-51596671e412)
 
-  Clicky switches as designed as his name already says, it has a mechanism who creates a clicky sound on the keystroke, having the properties of the tactile switches but it has the oudible click to it
+  Os switches clicky, como o próprio nome sugere, têm um mecanismo que cria um som de clique ao pressionar a tecla. Eles possuem as propriedades dos switches táteis, mas com o clique audível adicionado.
   ![image](https://github.com/tukacustoms/TCBK40/assets/115516996/32aec917-4adf-4d6a-95d3-ecd06c5d035b)
 
 
 https://pt.aliexpress.com/store/1102816724?spm=a2g0o.detail.0.0.163aNSzPNSzPXC
 
-# Conclusion - A Work of Passion and Expertise
-The TCBK40 is the culmination of almost a year of hard work, creativity, and problem-solving. From designing a custom firmware and PCB to crafting a visually appealing case, every aspect has been carefully considered. Tuka Customs' dedication to excellence shines through the seamless user experience of the TCBK40, making it a keyboard worth every penny.
+# Conclusão - Um Trabalho de Paixão e Expertise
 
-With an impressive blend of knowledge in keyboards, hardware, programming, QMK, schematics, materials, and presentation, Tuka Customs' journey continues to deliver innovative and inspiring projects. As the TCBK40 evolves and grows, new insights and information will continue to be added, making it a valuable and informative resource for keyboard enthusiasts worldwide.
+  O TCBK40 é o resultado de quase um ano de trabalho árduo, criatividade e resolução de problemas. Desde o design de um firmware e PCB personalizados até a criação de uma caixa visualmente atraente, cada aspecto foi cuidadosamente considerado. A dedicação da Tuka Customs à excelência brilha através da experiência do usuário perfeita proporcionada pelo TCBK40, tornando-o um teclado que vale cada centavo.
+
+  Com uma impressionante combinação de conhecimentos em teclados, hardware, programação, QMK, esquemas, materiais e apresentação, a jornada da Tuka Customs continua a entregar projetos inovadores e inspiradores. À medida que o TCBK40 evolui e cresce, novas ideias e informações continuarão sendo adicionadas, tornando-o um recurso valioso e informativo para entusiastas de teclados em todo o mundo.
 
 ![Keyboard_case_2023-Jul-07_09-18-37PM-000_CustomizedView6189358300](https://github.com/tukacustoms/Released-Files-TCBK40/assets/115516996/af208f74-7783-4bfb-a7ec-6eb87734a0a5)
