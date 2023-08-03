@@ -1,0 +1,3 @@
+http://www.keyboard-layout-editor.com/##@@=Esc&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=Back%3Cbr%3ESpace%3B&@_w:1.25%3B&=Tab&=A&=S&=D&=F&=G&=H&=J&=K&=L&_w:1.75%3B&=Enter%3B&@_w:1.75%3B&=Shift&=Z&=X&=C&=V&=B&=N&=M&=%2F%2F%0A%3F&_w:1.25%3B&=Win&=Alt%3B&@_x:1.25%3B&=L-Ctrl&_x:-1%3B&=L-Ctrl&_w:1.25%3B&=FN1&_w:2.25%3B&=SPACE&_w:2.25%3B&=SPACE&_w:1.25%3B&=FN2&=CAPS
+
+http://builder.swillkb.com/
