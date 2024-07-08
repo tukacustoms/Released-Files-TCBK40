@@ -18,8 +18,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     [2] = LAYOUT(
         KC_F1, KC_F2, KC_F3, KC_F4, KC_F5, KC_F6, KC_F7, KC_F8, KC_F9, KC_F10, KC_F11, KC_F12,  
-        RGB_MODE_RGBTEST, KC_MPRV, KC_MNXT, RGB_MOD, _______, KC_MUTE, KC_VOLD, KC_VOLU, KC_MPLY, KC_PGDN, _______, 
-        RGB_M_P, RGB_M_R, RGB_TOG, RGB_M_SW, RGB_M_TW, RGB_SAD, RGB_HUI,RGB_HUD, _______, RGB_VAI, RGB_VAD, 
+        RGB_MOD, KC_MPRV, KC_MNXT, RGB_MODE_RGBTEST, _______, KC_MUTE, KC_VOLD, KC_VOLU, KC_MPLY, KC_PGDN, QK_BOOT, 
+        RGB_TOG, RGB_M_R, RGB_M_P, RGB_M_SW, RGB_M_TW, RGB_SAD, RGB_HUI,RGB_HUD, _______, RGB_VAI, RGB_VAD, 
         _______, _______, _______, _______, _______, _______  
     ),
 
