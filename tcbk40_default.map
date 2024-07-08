@@ -29,37 +29,37 @@ d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega3
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_block.o)
                               d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_dword.o) (eeprom_read_blraw)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_divmodqi4.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__divmodqi4)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__divmodqi4)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_udivmodhi4.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__udivmodhi4)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__udivmodhi4)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_divmodhi4.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__divmodhi4)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__divmodhi4)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_udivmodsi4.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__udivmodsi4)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__udivmodsi4)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_tablejump2.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__tablejump2__)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__tablejump2__)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_copy_data.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__do_copy_data)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__do_copy_data)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_clear_bss.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__do_clear_bss)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__do_clear_bss)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_bswapsi2.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__bswapsi2)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__bswapsi2)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulhisi3.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__mulhisi3)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__mulhisi3)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_umulhisi3.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__umulhisi3)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__umulhisi3)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_usmulhisi3.o)
                               d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulhisi3.o) (__usmulhisi3_tail)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_muluhisi3.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__muluhisi3)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__muluhisi3)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulshisi3.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (__mulshisi3)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (__mulshisi3)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_udivmodqi4.o)
                               d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_divmodqi4.o) (__udivmodqi4)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libc.a(memchr.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (memchr)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (memchr)
 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libc.a(memcmp.o)
-                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o (memcmp)
+                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o (memcmp)
 
 Allocating common symbols
 Common symbol       size              file
@@ -85,12 +85,12 @@ Discarded input sections
 
  .data          0x0000000000000000        0x0 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
  .bss           0x0000000000000000        0x0 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .trampolines   0x0000000000000000        0x0 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
- .comment       0x0000000000000000      0x426 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
- .text          0x0000000000000000        0x0 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .text.led_set  0x0000000000000000        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .trampolines   0x0000000000000000        0x0 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+ .comment       0x0000000000000000      0x426 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+ .text          0x0000000000000000        0x0 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .text.led_set  0x0000000000000000        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text          0x0000000000000000      0x15c .build/obj_tcbk40_default/platforms/avr/xprintf.o
  .data          0x0000000000000000        0x0 .build/obj_tcbk40_default/platforms/avr/xprintf.o
  .text          0x0000000000000000        0x0 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
@@ -406,8 +406,8 @@ Linker script and memory map
 Address of section .data set to 0x800100
 LOAD d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
 LOAD .build/obj_tcbk40_default/.build/obj_tcbk40/src/default_keyboard.o
-LOAD C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-LOAD C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+LOAD C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+LOAD C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 LOAD .build/obj_tcbk40_default/quantum/keymap_introspection.o
 LOAD .build/obj_tcbk40_default/quantum/quantum.o
 LOAD .build/obj_tcbk40_default/quantum/bitwise.o
@@ -590,49 +590,49 @@ END GROUP
  *libc.a:*(.progmem.data)
  *(.progmem.*)
  .progmem.data.SharedReport
-                0x00000000000000ac       0x32 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000000ac       0x32 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.RawReport
-                0x00000000000000de       0x22 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000000de       0x22 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.KeyboardReport
-                0x0000000000000100       0x40 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000100       0x40 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.ascii_to_dead_lut
-                0x0000000000000140       0x10 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000140       0x10 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.ascii_to_altgr_lut
-                0x0000000000000150       0x10 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000150       0x10 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.ascii_to_shift_lut
-                0x0000000000000160       0x10 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000160       0x10 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.ascii_to_keycode_lut
-                0x0000000000000170       0x80 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000170       0x80 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.RGBLED_RGBTEST_INTERVALS
-                0x00000000000001f0        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000001f0        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.RGBLED_KNIGHT_INTERVALS
-                0x00000000000001f2        0x3 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000001f2        0x3 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.RGBLED_SNAKE_INTERVALS
-                0x00000000000001f5        0x3 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000001f5        0x3 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.RGBLED_RAINBOW_SWIRL_INTERVALS
-                0x00000000000001f8        0x3 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000001f8        0x3 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.RGBLED_RAINBOW_MOOD_INTERVALS
-                0x00000000000001fb        0x3 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000001fb        0x3 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.RGBLED_BREATHING_INTERVALS
-                0x00000000000001fe        0x4 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000001fe        0x4 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.CIE1931_CURVE
-                0x0000000000000202      0x100 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000202      0x100 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.RGBLED_GRADIENT_RANGES
-                0x0000000000000302        0x5 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000302        0x5 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.rgblight_effect_breathe_table
-                0x0000000000000307      0x100 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000307      0x100 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.keymaps
-                0x0000000000000407      0x120 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000407      0x120 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.ConfigurationDescriptor
-                0x0000000000000527       0x5b C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000527       0x5b C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.DeviceDescriptor
-                0x0000000000000582       0x12 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000582       0x12 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.ProductString
-                0x0000000000000594       0x2a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000594       0x2a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.ManufacturerString
-                0x00000000000005be       0x1c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000005be       0x1c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .progmem.data.LanguageString
-                0x00000000000005da        0x4 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000005da        0x4 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                 0x00000000000005de                . = ALIGN (0x2)
  *(.lowtext)
  *(.lowtext*)
@@ -716,191 +716,191 @@ END GROUP
                 0x000000000000061c                . = ALIGN (0x2)
  *(.text.*)
  .text.USB_Disable
-                0x000000000000061c       0x3e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000061c       0x3e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.Endpoint_WaitUntilReady
-                0x000000000000065a       0x62 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000065a       0x62 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.Endpoint_ClearStatusStage
-                0x00000000000006bc       0x3e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000006bc       0x3e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.Endpoint_ConfigureEndpoint_Prv
-                0x00000000000006fa       0x64 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000006fa       0x64 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.USB_Init
-                0x000000000000075e       0xb6 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000075e       0xb6 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.Endpoint_Write_Control_Stream_LE
-                0x0000000000000814       0xbc C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000814       0xbc C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_dummy
-                0x00000000000008d0        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000008d0        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.send_mouse
-                0x00000000000008d2        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000008d2        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.keyboard_leds
-                0x00000000000008d4        0x6 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000008d4        0x6 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.bootloader_jump
-                0x00000000000008da       0x2a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000008da       0x2a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.timer_read
-                0x0000000000000904       0x18 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000904       0x18 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.host_consumer_send
-                0x000000000000091c       0x4a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000091c       0x4a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.host_system_send
-                0x0000000000000966       0x4a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000966       0x4a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.host_keyboard_leds
-                0x00000000000009b0       0x1a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000009b0       0x1a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.handleKeycodeRGB
-                0x00000000000009ca        0xc C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000009ca        0xc C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_check_config
-                0x00000000000009d6       0x2c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000009d6       0x2c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.sethsv_raw
-                0x0000000000000a02      0x12c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000a02      0x12c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.sendchar
-                0x0000000000000b2e        0x4 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000b2e        0x4 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.setPinInputHigh_atomic
-                0x0000000000000b32       0x2e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000b32       0x2e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.mod_config
-                0x0000000000000b60       0x86 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000b60       0x86 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.action_for_keycode
-                0x0000000000000be6      0x2d8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .text.del_key  0x0000000000000ebe       0x1a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .text.add_key  0x0000000000000ed8       0x32 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000be6      0x2d8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .text.del_key  0x0000000000000ebe       0x1a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .text.add_key  0x0000000000000ed8       0x32 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.debug_waiting_buffer
-                0x0000000000000f0a       0x14 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000f0a       0x14 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.read_source_layers_cache
-                0x0000000000000f1e       0x68 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000f1e       0x68 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.update_source_layers_cache
-                0x0000000000000f86       0x6e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000f86       0x6e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.layer_state_set
-                0x0000000000000ff4        0x6 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000ff4        0x6 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.update_tri_layer.constprop.39
-                0x0000000000000ffa       0x18 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000ffa       0x18 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.layer_off
-                0x0000000000001012       0x1a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001012       0x1a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.layer_on
-                0x000000000000102c       0x18 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000102c       0x18 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.default_layer_state_set
-                0x0000000000001044        0x6 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001044        0x6 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.send_report
-                0x000000000000104a       0x76 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000104a       0x76 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.send_extra
-                0x00000000000010c0        0xe C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000010c0        0xe C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.send_keyboard
-                0x00000000000010ce       0x28 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000010ce       0x28 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_set
-                0x00000000000010f6       0x6a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000010f6       0x6a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_alternating
-                0x0000000000001160       0x74 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001160       0x74 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_christmas
-                0x00000000000011d4       0xfc C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000011d4       0xfc C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_knight
-                0x00000000000012d0       0xa2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000012d0       0xa2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_snake
-                0x0000000000001372       0xd0 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001372       0xd0 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_rainbow_swirl
-                0x0000000000001442       0x5a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001442       0x5a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_setrgb
-                0x000000000000149c       0x22 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000149c       0x22 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_rgbtest
-                0x00000000000014be       0x72 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000014be       0x72 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_sethsv_noeeprom_old
-                0x0000000000001530       0x36 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001530       0x36 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_rainbow_mood
-                0x0000000000001566       0x20 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001566       0x20 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_effect_breathing
-                0x0000000000001586       0x28 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001586       0x28 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.dynamic_keymap_macro_reset
-                0x00000000000015ae       0x20 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000015ae       0x20 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.dynamic_keymap_set_keycode
-                0x00000000000015ce       0x4c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000015ce       0x4c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.dynamic_keymap_reset
-                0x000000000000161a       0x7e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000161a       0x7e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.via_eeprom_set_valid
-                0x0000000000001698       0x32 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001698       0x32 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.eeconfig_init_via
-                0x00000000000016ca       0x20 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000016ca       0x20 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.dynamic_keymap_get_keycode
-                0x00000000000016ea       0x5e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000016ea       0x5e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.keymap_key_to_keycode
-                0x0000000000001748       0x1c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001748       0x1c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.layer_switch_get_layer
-                0x0000000000001764       0x5e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001764       0x5e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.layer_switch_get_action
-                0x00000000000017c2       0x1a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000017c2       0x1a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.is_tap_record
-                0x00000000000017dc       0x54 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000017dc       0x54 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.via_eeprom_is_valid
-                0x0000000000001830       0x32 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001830       0x32 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.eeconfig_update_rgblight
-                0x0000000000001862       0x26 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001862       0x26 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_sethsv_eeprom_helper
-                0x0000000000001888      0x104 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001888      0x104 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_decrease_val
-                0x000000000000198c       0x1a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000198c       0x1a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_increase_val
-                0x00000000000019a6       0x1a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000019a6       0x1a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_decrease_sat
-                0x00000000000019c0       0x1a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000019c0       0x1a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_increase_sat
-                0x00000000000019da       0x1a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000019da       0x1a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_decrease_hue
-                0x00000000000019f4       0x14 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000019f4       0x14 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_increase_hue
-                0x0000000000001a08       0x14 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001a08       0x14 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_decrease_speed
-                0x0000000000001a1c       0x24 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001a1c       0x24 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_increase_speed
-                0x0000000000001a40       0x24 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001a40       0x24 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_mode_eeprom_helper
-                0x0000000000001a64       0x84 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001a64       0x84 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_step_reverse
-                0x0000000000001ae8       0x14 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001ae8       0x14 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.rgblight_step
-                0x0000000000001afc       0x16 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001afc       0x16 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.handleKeycodeRGBMode
-                0x0000000000001b12       0x20 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001b12       0x20 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.eeconfig_update_rgblight_default
-                0x0000000000001b32       0x22 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001b32       0x22 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.eeconfig_init_quantum
-                0x0000000000001b54       0xc4 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001b54       0xc4 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.eeconfig_is_enabled
-                0x0000000000001c18       0x18 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001c18       0x18 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.send_keyboard_report
-                0x0000000000001c30       0x4e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001c30       0x4e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.clear_keyboard
-                0x0000000000001c7e       0x2c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001c7e       0x2c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.USB_Device_ProcessControlRequest
-                0x0000000000001caa      0x57c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000001caa      0x57c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.soft_reset_keyboard
-                0x0000000000002226       0x2c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000002226       0x2c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.unregister_mods
-                0x0000000000002252       0x16 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000002252       0x16 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.register_mods
-                0x0000000000002268       0x14 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000002268       0x14 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.unregister_code
-                0x000000000000227c       0xb0 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000227c       0xb0 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.register_code
-                0x000000000000232c      0x11c C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000232c      0x11c C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.tap_code_delay
-                0x0000000000002448       0x30 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000002448       0x30 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.process_record
-                0x0000000000002478      0x924 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000002478      0x924 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.waiting_buffer_scan_tap
-                0x0000000000002d9c       0xaa C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000002d9c       0xaa C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.process_tapping
-                0x0000000000002e46      0x2c2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000002e46      0x2c2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.action_exec
-                0x0000000000003108      0x10a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000003108      0x10a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.matrix_scan
-                0x0000000000003212      0x180 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000003212      0x180 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .text.__vector_11
-                0x0000000000003392       0x88 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000003392       0x88 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                 0x0000000000003392                __vector_11
  .text.__vector_10
-                0x000000000000341a      0x1b2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000000341a      0x1b2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                 0x000000000000341a                __vector_10
  .text.__vector_21
-                0x00000000000035cc       0x48 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000035cc       0x48 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                 0x00000000000035cc                __vector_21
  .text.__vector_12
-                0x0000000000003614       0x4e C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000003614       0x4e C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                 0x0000000000003614                __vector_12
  .text.startup.main
-                0x0000000000003662      0x8ec C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000003662      0x8ec C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                 0x0000000000003662                main
  .text.libgcc.prologue
                 0x0000000000003f4e       0x38 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_prologue.o)
@@ -1009,11 +1009,11 @@ END GROUP
  *(.jumptables)
  *(.jumptables*)
  .jumptables.gcc.USB_Device_ProcessControlRequest
-                0x00000000000041c8       0x14 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000041c8       0x14 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .jumptables.gcc.process_record
-                0x00000000000041dc       0x86 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000000041dc       0x86 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .jumptables.gcc.main
-                0x0000000000004262       0x26 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000004262       0x26 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                 0x0000000000004288                _etext = .
 
 .data           0x0000000000800100       0x90 load address 0x0000000000004288
@@ -1021,36 +1021,36 @@ END GROUP
  *(.data)
  *(.data*)
  .data.lufa_driver
-                0x0000000000800100        0x8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800100        0x8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .data.static_effect_table
-                0x0000000000800108        0xb C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800108        0xb C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .data.increment.3503
-                0x0000000000800113        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800113        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .data.high_bound.3502
-                0x0000000000800114        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800114        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .data.increment.3515
-                0x0000000000800115        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800115        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .data.keyboard_protocol
-                0x0000000000800116        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800116        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  *(.gnu.linkonce.d*)
  *(.rodata)
  *(.rodata*)
  .rodata.CSWTCH.13
-                0x0000000000800117        0x3 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800117        0x3 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .rodata.CSWTCH.14
-                0x000000000080011a       0x32 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080011a       0x32 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .rodata.row_pins
-                0x000000000080014c        0x4 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080014c        0x4 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .rodata.col_pins
-                0x0000000000800150        0xc C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800150        0xc C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .rodata.mode_base_table
-                0x000000000080015c       0x25 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080015c       0x25 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .rodata.CSWTCH.2
-                0x0000000000800181        0x3 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800181        0x3 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .rodata.CSWTCH.1
-                0x0000000000800184        0x6 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800184        0x6 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .rodata.CSWTCH.0
-                0x000000000080018a        0x6 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080018a        0x6 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  *(.gnu.linkonce.r*)
                 0x0000000000800190                . = ALIGN (0x2)
                 0x0000000000800190                _edata = .
@@ -1063,85 +1063,85 @@ END GROUP
                 0x0000000000800190                xfunc_out
  *(.bss*)
  .bss.__compound_literal.0
-                0x0000000000800192        0x8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800192        0x8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.source_layers_cache
-                0x000000000080019a       0x12 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080019a       0x12 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.tapping_key
-                0x00000000008001ac        0x6 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001ac        0x6 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.waiting_buffer_head
-                0x00000000008001b2        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001b2        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.waiting_buffer
-                0x00000000008001b3       0x30 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001b3       0x30 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.waiting_buffer_tail
-                0x00000000008001e3        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001e3        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.last_report.3834
-                0x00000000008001e4        0x8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001e4        0x8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.weak_mods
-                0x00000000008001ec        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001ec        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.real_mods
-                0x00000000008001ed        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001ed        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.default_layer_state
-                0x00000000008001ee        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001ee        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.debouncing_time
-                0x00000000008001ef        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001ef        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.debouncing
-                0x00000000008001f1        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001f1        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.raw_matrix
-                0x00000000008001f2        0x8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001f2        0x8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.keymap_config
-                0x00000000008001fa        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001fa        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.is_rgblight_initialized
-                0x00000000008001fc        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001fc        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.last_tick.4950
-                0x00000000008001fd        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001fd        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.debug_config
-                0x00000000008001ff        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008001ff        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.matrix_previous.4957
-                0x0000000000800200        0x8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800200        0x8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.last_led_status.3275
-                0x0000000000800208        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .bss.matrix    0x0000000000800209        0x8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800208        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .bss.matrix    0x0000000000800209        0x8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.animation_status
-                0x0000000000800211        0x6 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800211        0x6 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.rgblight_status
-                0x0000000000800217        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .bss.pos.3485  0x0000000000800219        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800217        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .bss.pos.3485  0x0000000000800219        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.low_bound.3501
-                0x000000000080021a        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080021a        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.maxval.3530
-                0x000000000080021b        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .bss.led       0x000000000080021c       0x78 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080021b        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .bss.led       0x000000000080021c       0x78 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.rgblight_config
-                0x0000000000800294        0x5 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800294        0x5 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.last_system_usage
-                0x0000000000800299        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
- .bss.driver    0x000000000080029b        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000800299        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+ .bss.driver    0x000000000080029b        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.last_consumer_usage
-                0x000000000080029d        0x2 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080029d        0x2 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.wdt_timeout
-                0x000000000080029f        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x000000000080029f        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.timer_count
-                0x00000000008002a0        0x4 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002a0        0x4 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.USB_IsInitialized
-                0x00000000008002a4        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002a4        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.keyboard_idle
-                0x00000000008002a5        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002a5        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.keyboard_led_state
-                0x00000000008002a6        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002a6        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.keyboard_report_sent
-                0x00000000008002a7        0x8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002a7        0x8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.USB_Device_CurrentlySelfPowered
-                0x00000000008002af        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002af        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.USB_Device_RemoteWakeupEnabled
-                0x00000000008002b0        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002b0        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.USB_DeviceState
-                0x00000000008002b1        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002b1        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.USB_Device_ConfigurationNumber
-                0x00000000008002b2        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002b2        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.USB_ControlRequest
-                0x00000000008002b3        0x8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002b3        0x8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  .bss.layer_state
-                0x00000000008002bb        0x1 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x00000000008002bb        0x1 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
  *(COMMON)
                 0x00000000008002bc                PROVIDE (__bss_end = .)
                 0x0000000000004288                __data_load_start = LOADADDR (.data)
@@ -1190,7 +1190,7 @@ END GROUP
 
 .comment        0x0000000000000000       0x11
  *(.comment)
- .comment       0x0000000000000000       0x11 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x11 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                          0x12 (size before relaxing)
 
 .note.gnu.avr.deviceinfo
@@ -1216,7 +1216,7 @@ END GROUP
 .debug_aranges  0x0000000000000000      0x2f8
  *(.debug_aranges)
  .debug_aranges
-                0x0000000000000000      0x2f8 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                0x0000000000000000      0x2f8 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 
 .debug_pubnames
  *(.debug_pubnames)
@@ -1224,7 +1224,7 @@ END GROUP
 .debug_info     0x0000000000000000    0x34a3a
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000      0x9f4 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_info    0x00000000000009f4    0x2aee9 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+ .debug_info    0x00000000000009f4    0x2aee9 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
                 0x00000000000009f4                default_keyboard.c.cb823f9d
                 0x00000000000011af                keymap_introspection.c.6894f87c
                 0x0000000000003ab8                quantum.c.25f20a48
@@ -1284,35 +1284,35 @@ END GROUP
                 0x000000000002b350                HostStandardReq.c.cc56feb6
                 0x000000000002b3ad                USBTask.c.72a6ef6b
                 0x000000000002b5a4                usb_util.c.be56695a
- .debug_info    0x000000000002b8dd     0x915d C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .debug_info    0x000000000002b8dd     0x915d C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 
 .debug_abbrev   0x0000000000000000     0x605d
  *(.debug_abbrev)
  .debug_abbrev  0x0000000000000000      0x96a d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_abbrev  0x000000000000096a     0x53ad C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
- .debug_abbrev  0x0000000000005d17      0x346 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000096a     0x53ad C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+ .debug_abbrev  0x0000000000005d17      0x346 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 
 .debug_line     0x0000000000000000    0x10ab9
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x0000000000000000       0x1d d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_line    0x000000000000001d     0x4992 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
- .debug_line    0x00000000000049af     0xc10a C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .debug_line    0x000000000000001d     0x4992 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+ .debug_line    0x00000000000049af     0xc10a C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 
 .debug_frame    0x0000000000000000      0x924
  *(.debug_frame)
- .debug_frame   0x0000000000000000      0x924 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000000      0x924 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 
 .debug_str      0x0000000000000000     0xa5d1
  *(.debug_str)
  .debug_str     0x0000000000000000      0x371 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_str     0x0000000000000371     0xa13a C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+ .debug_str     0x0000000000000371     0xa13a C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
                                       0x3decf (size before relaxing)
- .debug_str     0x000000000000a4ab      0x126 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .debug_str     0x000000000000a4ab      0x126 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                         0x14f (size before relaxing)
 
 .debug_loc      0x0000000000000000     0x8787
  *(.debug_loc)
- .debug_loc     0x0000000000000000     0x8787 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .debug_loc     0x0000000000000000     0x8787 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1334,7 +1334,7 @@ END GROUP
 
 .debug_ranges   0x0000000000000000     0x2000
  *(.debug_ranges)
- .debug_ranges  0x0000000000000000     0x2000 C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000000     0x2000 C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 
 .debug_addr
  *(.debug_addr)
@@ -1370,13 +1370,13 @@ CALLBACK_USB_GetDescriptor                        .build/obj_tcbk40_default/lufa
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
 CIE1931_CURVE                                     .build/obj_tcbk40_default/quantum/led_tables.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/color.o (symbol from plugin)
-ConfigDescriptors.c.a7400c32                      C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+ConfigDescriptors.c.a7400c32                      C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
 ConfigurationDescriptor                           .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
 DeviceDescriptor                                  .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
-DeviceStandardReq.c.be7c4ccf                      C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-Device_AVR8.c.dbf356c0                            C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+DeviceStandardReq.c.be7c4ccf                      C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+Device_AVR8.c.dbf356c0                            C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 EVENT_USB_Device_ConfigurationChanged             .build/obj_tcbk40_default/lufa.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
 EVENT_USB_Device_Connect                          .build/obj_tcbk40_default/lufa.o (symbol from plugin)
@@ -1393,10 +1393,10 @@ EVENT_USB_Device_Suspend                          .build/obj_tcbk40_default/lufa
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
 EVENT_USB_Device_WakeUp                           .build/obj_tcbk40_default/lufa.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
-EndpointStream_AVR8.c.26bbbacf                    C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-Endpoint_AVR8.c.60609181                          C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+EndpointStream_AVR8.c.26bbbacf                    C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+Endpoint_AVR8.c.60609181                          C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 Endpoint_ClearEndpoints                           .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
 Endpoint_ClearStatusStage                         .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
@@ -1435,16 +1435,16 @@ Endpoint_Write_PStream_LE                         .build/obj_tcbk40_default/lib/
 Endpoint_Write_Stream_BE                          .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
 Endpoint_Write_Stream_LE                          .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lufa.o (symbol from plugin)
-Events.c.0249aab2                                 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-HIDParser.c.04bd4761                              C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-HostStandardReq.c.cc56feb6                        C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-Host_AVR8.c.99e32b26                              C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+Events.c.0249aab2                                 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+HIDParser.c.04bd4761                              C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+HostStandardReq.c.cc56feb6                        C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+Host_AVR8.c.99e32b26                              C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
 KeyboardReport                                    .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
 LanguageString                                    .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
 ManufacturerString                                .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
-PipeStream_AVR8.c.a7d33fdd                        C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-Pipe_AVR8.c.a68918bf                              C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+PipeStream_AVR8.c.a7d33fdd                        C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+Pipe_AVR8.c.a68918bf                              C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
 ProductString                                     .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
 RGBLED_BREATHING_INTERVALS                        .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
 RGBLED_GRADIENT_RANGES                            .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
@@ -1455,12 +1455,12 @@ RGBLED_RGBTEST_INTERVALS                          .build/obj_tcbk40_default/quan
 RGBLED_SNAKE_INTERVALS                            .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
 RawReport                                         .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
 SharedReport                                      .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
-USBController_AVR8.c.96a4ef66                     C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-USBInterrupt_AVR8.c.41395188                      C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-USBTask.c.72a6ef6b                                C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+USBController_AVR8.c.96a4ef66                     C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+USBInterrupt_AVR8.c.41395188                      C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+USBTask.c.72a6ef6b                                C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 USB_ControlRequest                                .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/USBTask.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
@@ -1520,62 +1520,62 @@ __bad_interrupt                                   d:/qmk_msys/mingw64/bin/../lib
 __bss_end                                         d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_clear_bss.o)
 __bss_start                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_clear_bss.o)
 __bswapsi2                                        d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_bswapsi2.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __data_end                                        d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_copy_data.o)
 __data_load_start                                 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_copy_data.o)
 __data_start                                      d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_copy_data.o)
 __divmodhi4                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_divmodhi4.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __divmodqi4                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_divmodqi4.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __do_clear_bss                                    d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_clear_bss.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __do_copy_data                                    d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_copy_data.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __epilogue_restores__                             d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_epilogue.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
 __heap_end                                        d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __init                                            d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __mulhisi3                                        d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulhisi3.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __mulohisi3                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulshisi3.o)
 __mulshisi3                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulshisi3.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __muluhisi3                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_muluhisi3.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulshisi3.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __prologue_saves__                                d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_prologue.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
 __stack                                           d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __tablejump2__                                    d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_tablejump2.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __udivmodhi4                                      d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_udivmodhi4.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_divmodhi4.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __udivmodqi4                                      d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_udivmodqi4.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_divmodqi4.o)
 __udivmodsi4                                      d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_udivmodsi4.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __ultoa_invert                                    d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
 __umulhisi3                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_umulhisi3.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_muluhisi3.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_usmulhisi3.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulhisi3.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 __usmulhisi3                                      d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_usmulhisi3.o)
 __usmulhisi3_tail                                 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_usmulhisi3.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_mulhisi3.o)
 __vector_1                                        d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_10                                       C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+__vector_10                                       C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_11                                       C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+__vector_11                                       C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_12                                       C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+__vector_12                                       C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/platforms/avr/suspend.o (symbol from plugin)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_13                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1587,7 +1587,7 @@ __vector_18                                       d:/qmk_msys/mingw64/bin/../lib
 __vector_19                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_2                                        d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_20                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_21                                       C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+__vector_21                                       C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/platforms/avr/timer.o (symbol from plugin)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_22                                       d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1623,21 +1623,21 @@ __vectors                                         d:/qmk_msys/mingw64/bin/../lib
 __xprintf                                         .build/obj_tcbk40_default/platforms/avr/xprintf.o
 _div                                              d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_divmodhi4.o)
 _exit                                             d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_exit.o)
-action.c.fecef887                                 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+action.c.fecef887                                 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 action_exec                                       .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
 action_for_key                                    .build/obj_tcbk40_default/quantum/keymap_common.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action_layer.o (symbol from plugin)
 action_for_keycode                                .build/obj_tcbk40_default/quantum/keymap_common.o (symbol from plugin)
-action_layer.c.9fb9d90c                           C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-action_tapping.c.9c286eb8                         C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+action_layer.c.9fb9d90c                           C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+action_tapping.c.9c286eb8                         C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 action_tapping_process                            .build/obj_tcbk40_default/quantum/action_tapping.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
-action_util.c.b09e6dab                            C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+action_util.c.b09e6dab                            C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 add_key                                           .build/obj_tcbk40_default/quantum/action_util.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 add_key_byte                                      .build/obj_tcbk40_default/protocol/report.o (symbol from plugin)
@@ -1663,14 +1663,14 @@ bitpop32                                          .build/obj_tcbk40_default/quan
 bitrev                                            .build/obj_tcbk40_default/quantum/bitwise.o (symbol from plugin)
 bitrev16                                          .build/obj_tcbk40_default/quantum/bitwise.o (symbol from plugin)
 bitrev32                                          .build/obj_tcbk40_default/quantum/bitwise.o (symbol from plugin)
-bitwise.c.ff2eac34                                C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+bitwise.c.ff2eac34                                C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
 bootloader_jump                                   .build/obj_tcbk40_default/platforms/avr/bootloaders/usbasploader.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 bootmagic                                         .build/obj_tcbk40_default/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
 bootmagic_lite                                    .build/obj_tcbk40_default/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
-bootmagic_lite.c.6ea5c23c                         C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+bootmagic_lite.c.6ea5c23c                         C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 bootmagic_lite_reset_eeprom                       .build/obj_tcbk40_default/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
 clear_keyboard                                    .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lufa.o (symbol from plugin)
@@ -1689,8 +1689,8 @@ clear_mods                                        .build/obj_tcbk40_default/quan
                                                   .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 clear_weak_mods                                   .build/obj_tcbk40_default/quantum/action_util.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
-color.c.0174c45e                                  C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+color.c.0174c45e                                  C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 debounce                                          .build/obj_tcbk40_default/quantum/debounce/sym_defer_g.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/matrix.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/matrix_common.o (symbol from plugin)
@@ -1698,8 +1698,8 @@ debounce_free                                     .build/obj_tcbk40_default/quan
 debounce_init                                     .build/obj_tcbk40_default/quantum/debounce/sym_defer_g.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/matrix.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/matrix_common.o (symbol from plugin)
-debug.c.07d0a554                                  C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+debug.c.07d0a554                                  C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 debug_action                                      .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 debug_config                                      .build/obj_tcbk40_default/quantum/logging/debug.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/bootmagic/magic.o (symbol from plugin)
@@ -1708,7 +1708,7 @@ debug_event                                       .build/obj_tcbk40_default/quan
                                                   .build/obj_tcbk40_default/quantum/action_tapping.o (symbol from plugin)
 debug_record                                      .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action_tapping.o (symbol from plugin)
-default_keyboard.c.cb823f9d                       C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+default_keyboard.c.cb823f9d                       C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
 default_layer_and                                 .build/obj_tcbk40_default/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 default_layer_debug                               .build/obj_tcbk40_default/quantum/action_layer.o (symbol from plugin)
@@ -1739,8 +1739,8 @@ disable_action_cache                              .build/obj_tcbk40_default/quan
                                                   .build/obj_tcbk40_default/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 do_code16                                         .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
-dynamic_keymap.c.d4a3d08c                         C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+dynamic_keymap.c.d4a3d08c                         C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 dynamic_keymap_get_buffer                         .build/obj_tcbk40_default/quantum/dynamic_keymap.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
 dynamic_keymap_get_keycode                        .build/obj_tcbk40_default/quantum/dynamic_keymap.o (symbol from plugin)
@@ -1766,8 +1766,8 @@ dynamic_keymap_set_buffer                         .build/obj_tcbk40_default/quan
                                                   .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
 dynamic_keymap_set_keycode                        .build/obj_tcbk40_default/quantum/dynamic_keymap.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
-eeconfig.c.e15e1bca                               C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+eeconfig.c.e15e1bca                               C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 eeconfig_debug_rgblight                           .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
 eeconfig_disable                                  .build/obj_tcbk40_default/quantum/eeconfig.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
@@ -1818,21 +1818,21 @@ eeprom_read_blraw                                 d:/qmk_msys/mingw64/bin/../lib
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_word.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_dword.o)
 eeprom_read_byte                                  d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_byte.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/dynamic_keymap.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/eeconfig.o (symbol from plugin)
 eeprom_read_dword                                 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_dword.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/eeconfig.o (symbol from plugin)
 eeprom_read_float                                 d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_dword.o)
 eeprom_read_word                                  d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_word.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_byte                                d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_byte.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_word.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_dword.o)
                                                   .build/obj_tcbk40_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
@@ -1840,7 +1840,7 @@ eeprom_update_byte                                d:/qmk_msys/mingw64/bin/../lib
                                                   .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_dword                               d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_dword.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_float                               d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_dword.o)
@@ -1848,7 +1848,7 @@ eeprom_update_r18                                 d:/qmk_msys/mingw64/bin/../lib
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_word.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_dword.o)
 eeprom_update_word                                d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_word.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/quantum/eeconfig.o (symbol from plugin)
 exit                                              d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/avr5\libgcc.a(_exit.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1867,12 +1867,12 @@ get_u8_str                                        .build/obj_tcbk40_default/quan
 get_usb_descriptor                                .build/obj_tcbk40_default/usb_descriptor.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lufa.o (symbol from plugin)
 get_weak_mods                                     .build/obj_tcbk40_default/quantum/action_util.o (symbol from plugin)
-gnu_lto_v1                                        C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-hardware_id.c.1e9cd947                            C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+gnu_lto_v1                                        C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+hardware_id.c.1e9cd947                            C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
 has_anykey                                        .build/obj_tcbk40_default/protocol/report.o (symbol from plugin)
 has_anymod                                        .build/obj_tcbk40_default/quantum/action_util.o (symbol from plugin)
-host.c.3636a1e1                                   C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+host.c.3636a1e1                                   C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 host_consumer_send                                .build/obj_tcbk40_default/protocol/host.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 host_get_driver                                   .build/obj_tcbk40_default/protocol/host.o (symbol from plugin)
@@ -1905,8 +1905,8 @@ is_rgblight_initialized                           .build/obj_tcbk40_default/quan
 is_tap_action                                     .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 is_tap_record                                     .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action_tapping.o (symbol from plugin)
-keyboard.c.e21180e5                               C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+keyboard.c.e21180e5                               C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 keyboard_idle                                     .build/obj_tcbk40_default/lufa.o (symbol from plugin)
 keyboard_init                                     .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/main.o (symbol from plugin)
@@ -1928,15 +1928,15 @@ keycode_at_keymap_location_raw                    .build/obj_tcbk40_default/quan
                                                   .build/obj_tcbk40_default/quantum/dynamic_keymap.o (symbol from plugin)
 keycode_config                                    .build/obj_tcbk40_default/quantum/keycode_config.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keymap_common.o (symbol from plugin)
-keycode_config.c.8f1a2c72                         C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-keymap_common.c.940779f4                          C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+keycode_config.c.8f1a2c72                         C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+keymap_common.c.940779f4                          C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 keymap_config                                     .build/obj_tcbk40_default/quantum/bootmagic/magic.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/process_keycode/process_magic.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keycode_config.o (symbol from plugin)
-keymap_introspection.c.6894f87c                   C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+keymap_introspection.c.6894f87c                   C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 keymap_key_to_keycode                             .build/obj_tcbk40_default/quantum/keymap_common.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 keymap_layer_count                                .build/obj_tcbk40_default/quantum/keymap_introspection.o (symbol from plugin)
@@ -1989,8 +1989,8 @@ layer_switch_get_layer                            .build/obj_tcbk40_default/quan
 layer_xor                                         .build/obj_tcbk40_default/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 led                                               .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
-led.c.0b29cad8                                    C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+led.c.0b29cad8                                    C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 led_init_ports                                    .build/obj_tcbk40_default/quantum/led.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
 led_set                                           .build/obj_tcbk40_default/quantum/led.o (symbol from plugin)
@@ -1999,8 +1999,8 @@ led_set_kb                                        .build/obj_tcbk40_default/quan
 led_set_user                                      .build/obj_tcbk40_default/quantum/led.o (symbol from plugin)
 led_suspend                                       .build/obj_tcbk40_default/quantum/led.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
-led_tables.c.2d187451                             C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+led_tables.c.2d187451                             C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 led_task                                          .build/obj_tcbk40_default/quantum/led.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
 led_update_kb                                     .build/obj_tcbk40_default/quantum/led.o (symbol from plugin)
@@ -2008,25 +2008,25 @@ led_update_ports                                  .build/obj_tcbk40_default/quan
 led_update_user                                   .build/obj_tcbk40_default/quantum/led.o (symbol from plugin)
 led_wakeup                                        .build/obj_tcbk40_default/quantum/led.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
-lufa.c.363073c8                                   C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+lufa.c.363073c8                                   C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 lufa_driver                                       .build/obj_tcbk40_default/lufa.o (symbol from plugin)
 magic                                             .build/obj_tcbk40_default/quantum/bootmagic/magic.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
-magic.c.dc9d1f82                                  C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-main                                              C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+magic.c.dc9d1f82                                  C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+main                                              C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/quantum/main.o (symbol from plugin)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5/crtatmega32u4.o
-main.c.da96b177                                   C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+main.c.da96b177                                   C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 matrix                                            .build/obj_tcbk40_default/quantum/matrix_common.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/matrix.o (symbol from plugin)
-matrix.c.d9498f20                                 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+matrix.c.d9498f20                                 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 matrix_cols                                       .build/obj_tcbk40_default/quantum/matrix_common.o (symbol from plugin)
-matrix_common.c.d3a9d84d                          C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+matrix_common.c.d3a9d84d                          C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 matrix_get_row                                    .build/obj_tcbk40_default/quantum/matrix_common.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/platforms/suspend.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
@@ -2071,9 +2071,9 @@ matrix_setup                                      .build/obj_tcbk40_default/quan
 mcu_reset                                         .build/obj_tcbk40_default/platforms/avr/bootloaders/usbasploader.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 memchr                                            d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libc.a(memchr.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 memcmp                                            d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libc.a(memcmp.o)
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 mod_config                                        .build/obj_tcbk40_default/quantum/keycode_config.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keymap_common.o (symbol from plugin)
 notify_usb_device_state_change_kb                 .build/obj_tcbk40_default/protocol/usb_device_state.o (symbol from plugin)
@@ -2085,8 +2085,8 @@ oneshot_locked_mods_changed_user                  .build/obj_tcbk40_default/quan
 oneshot_mods_changed_kb                           .build/obj_tcbk40_default/quantum/action_util.o (symbol from plugin)
 oneshot_mods_changed_user                         .build/obj_tcbk40_default/quantum/action_util.o (symbol from plugin)
 peek_matrix                                       .build/obj_tcbk40_default/quantum/matrix_common.o (symbol from plugin)
-platform.c.b0448a96                               C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+platform.c.b0448a96                               C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 platform_setup                                    .build/obj_tcbk40_default/platforms/avr/platform.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/main.o (symbol from plugin)
 post_process_record_kb                            .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
@@ -2095,14 +2095,14 @@ post_process_record_user                          .build/obj_tcbk40_default/quan
 pre_process_record_quantum                        .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 print_set_sendchar                                .build/obj_tcbk40_default/platforms/avr/printf.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
-printf.c.1d88dd8e                                 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+printf.c.1d88dd8e                                 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 process_action                                    .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 process_action_kb                                 .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 process_magic                                     .build/obj_tcbk40_default/quantum/process_keycode/process_magic.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
-process_magic.c.38d944c0                          C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+process_magic.c.38d944c0                          C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 process_record                                    .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/action_tapping.o (symbol from plugin)
 process_record_handler                            .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
@@ -2116,8 +2116,8 @@ process_record_via                                .build/obj_tcbk40_default/quan
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 process_rgb                                       .build/obj_tcbk40_default/quantum/process_keycode/process_rgb.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
-process_rgb.c.85a5460a                            C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+process_rgb.c.85a5460a                            C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 protocol_init                                     .build/obj_tcbk40_default/quantum/main.o (symbol from plugin)
 protocol_post_init                                .build/obj_tcbk40_default/lufa.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/main.o (symbol from plugin)
@@ -2130,8 +2130,8 @@ protocol_pre_task                                 .build/obj_tcbk40_default/lufa
 protocol_setup                                    .build/obj_tcbk40_default/lufa.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/main.o (symbol from plugin)
 protocol_task                                     .build/obj_tcbk40_default/quantum/main.o (symbol from plugin)
-quantum.c.25f20a48                                C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+quantum.c.25f20a48                                C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 quantum_init                                      .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
 quantum_task                                      .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
 raw_hid_receive                                   .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
@@ -2151,11 +2151,11 @@ register_mods                                     .build/obj_tcbk40_default/quan
 register_mouse                                    .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 register_weak_mods                                .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
-report.c.b2844c92                                 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+report.c.b2844c92                                 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 reset_keyboard                                    .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
-rgblight.c.93362392                               C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+rgblight.c.93362392                               C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 rgblight_call_driver                              .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
 rgblight_check_config                             .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
 rgblight_config                                   .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
@@ -2289,8 +2289,8 @@ send_programmable_button                          .build/obj_tcbk40_default/lufa
                                                   .build/obj_tcbk40_default/protocol/host.o (symbol from plugin)
 send_report                                       .build/obj_tcbk40_default/lufa.o (symbol from plugin)
 send_string                                       .build/obj_tcbk40_default/quantum/send_string/send_string.o (symbol from plugin)
-send_string.c.02f77b5a                            C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+send_string.c.02f77b5a                            C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 send_string_P                                     .build/obj_tcbk40_default/quantum/send_string/send_string.o (symbol from plugin)
 send_string_with_delay                            .build/obj_tcbk40_default/quantum/send_string/send_string.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/dynamic_keymap.o (symbol from plugin)
@@ -2298,8 +2298,8 @@ send_string_with_delay_P                          .build/obj_tcbk40_default/quan
 send_word                                         .build/obj_tcbk40_default/quantum/send_string/send_string.o (symbol from plugin)
 sendchar                                          .build/obj_tcbk40_default/quantum/logging/sendchar.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
-sendchar.c.613c70b9                               C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+sendchar.c.613c70b9                               C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 set_mods                                          .build/obj_tcbk40_default/quantum/action_util.o (symbol from plugin)
 set_single_persistent_default_layer               .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 set_weak_mods                                     .build/obj_tcbk40_default/quantum/action_util.o (symbol from plugin)
@@ -2316,10 +2316,10 @@ store_or_get_action                               .build/obj_tcbk40_default/quan
                                                   .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 strchr_P                                          d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libc.a(strchr_P.o)
                                                   d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
-suspend.c.165a7f87                                C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-suspend.c.eab57bd4                                C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+suspend.c.165a7f87                                C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+suspend.c.eab57bd4                                C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 suspend_power_down                                .build/obj_tcbk40_default/platforms/avr/suspend.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lufa.o (symbol from plugin)
 suspend_power_down_kb                             .build/obj_tcbk40_default/platforms/suspend.o (symbol from plugin)
@@ -2337,17 +2337,17 @@ suspend_wakeup_init_quantum                       .build/obj_tcbk40_default/quan
                                                   .build/obj_tcbk40_default/platforms/avr/suspend.o (symbol from plugin)
 suspend_wakeup_init_user                          .build/obj_tcbk40_default/platforms/suspend.o (symbol from plugin)
 switch_events                                     .build/obj_tcbk40_default/quantum/keyboard.o (symbol from plugin)
-sym_defer_g.c.588c6813                            C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
-sync_timer.c.bcb9ac63                             C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+sym_defer_g.c.588c6813                            C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
+sync_timer.c.bcb9ac63                             C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
 tap_code                                          .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/send_string/send_string.o (symbol from plugin)
 tap_code16                                        .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 tap_code16_delay                                  .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 tap_code_delay                                    .build/obj_tcbk40_default/quantum/action.o (symbol from plugin)
 tap_random_base64                                 .build/obj_tcbk40_default/quantum/send_string/send_string.o (symbol from plugin)
-timer.c.85065a81                                  C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+timer.c.85065a81                                  C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 timer_clear                                       .build/obj_tcbk40_default/platforms/avr/timer.o (symbol from plugin)
 timer_count                                       .build/obj_tcbk40_default/platforms/avr/timer.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/platforms/avr/suspend.o (symbol from plugin)
@@ -2383,11 +2383,11 @@ update_tri_layer                                  .build/obj_tcbk40_default/quan
 update_tri_layer_state                            .build/obj_tcbk40_default/quantum/quantum.o (symbol from plugin)
 usb_connected_state                               .build/obj_tcbk40_default/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/protocol/usb_util.o (symbol from plugin)
-usb_descriptor.c.acebb153                         C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+usb_descriptor.c.acebb153                         C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 usb_device_state                                  .build/obj_tcbk40_default/protocol/usb_device_state.o (symbol from plugin)
-usb_device_state.c.c79adad4                       C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+usb_device_state.c.c79adad4                       C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 usb_device_state_init                             .build/obj_tcbk40_default/protocol/usb_device_state.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/lufa.o (symbol from plugin)
 usb_device_state_set_configuration                .build/obj_tcbk40_default/protocol/usb_device_state.o (symbol from plugin)
@@ -2400,15 +2400,15 @@ usb_device_state_set_suspend                      .build/obj_tcbk40_default/prot
                                                   .build/obj_tcbk40_default/lufa.o (symbol from plugin)
 usb_disconnect                                    .build/obj_tcbk40_default/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/protocol/usb_util.o (symbol from plugin)
-usb_util.c.990ea40e                               C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-usb_util.c.be56695a                               C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
+usb_util.c.990ea40e                               C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+usb_util.c.be56695a                               C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
 usb_vbus_state                                    .build/obj_tcbk40_default/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/protocol/usb_util.o (symbol from plugin)
-usbasploader.c.9b42cf4a                           C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+usbasploader.c.9b42cf4a                           C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 vfprintf                                          d:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.5.0/../../../../avr/lib/avr5\libprintf_min.a(vfprintf_min.o)
-via.c.19dbc97b                                    C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+via.c.19dbc97b                                    C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 via_command_kb                                    .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
 via_custom_value_command                          .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
 via_custom_value_command_kb                       .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
@@ -2427,12 +2427,12 @@ via_qmk_rgblight_set_value                        .build/obj_tcbk40_default/quan
 via_set_device_indication                         .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
 via_set_layout_options                            .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
 via_set_layout_options_kb                         .build/obj_tcbk40_default/quantum/via.o (symbol from plugin)
-ws2812.c.899fa158                                 C:\Users\Arthu\AppData\Local\Temp\ccInN8UBdebugobj
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+ws2812.c.899fa158                                 C:\Users\Arthu\AppData\Local\Temp\ccqlOPzxdebugobj
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
 ws2812_setleds                                    .build/obj_tcbk40_default/ws2812.o (symbol from plugin)
                                                   .build/obj_tcbk40_default/quantum/rgblight/rgblight.o (symbol from plugin)
 xfunc_out                                         .build/obj_tcbk40_default/platforms/avr/xprintf.o
-                                                  C:\Users\Arthu\AppData\Local\Temp\cc7nkRfg.ltrans0.ltrans.o
+                                                  C:\Users\Arthu\AppData\Local\Temp\cctgrQJO.ltrans0.ltrans.o
                                                   .build/obj_tcbk40_default/platforms/avr/printf.o (symbol from plugin)
 xitoa                                             .build/obj_tcbk40_default/platforms/avr/xprintf.o
 xputc                                             .build/obj_tcbk40_default/platforms/avr/xprintf.o
