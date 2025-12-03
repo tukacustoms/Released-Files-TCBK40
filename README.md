@@ -1,6 +1,6 @@
 <!-- README.md (English) -->
-# Dedico a:
-Este trabalho se tornou um marco em minha vida em vários sentidos. Vindo
+# Dedico:
+  Este trabalho se tornou um marco em minha vida em vários sentidos. Vindo
  primeiramente no pensamento de me desafiar, ver até que ponto naquele momento eu
  conseguiria me superar sobre aquele desafio, e assim é a nossa vida. Comecei a aprender a
  apreciar a trajetória, apreciar o processo, com as dificuldades e me mantendo firme a
@@ -24,7 +24,7 @@ Este trabalho se tornou um marco em minha vida em vários sentidos. Vindo
  pessoa. Meu pai João Batista Dantas Feijó, que proporcionou toda estrutura e estabilidade
  financeira a minha carreira e minha constante busca em criar meu futuro.
  Aos meus amigos, em especial João Paulo Almeida, Queops Firmino Costa, Cayo
- Ribeiro, Thomas Morgan, Morgan Haggar, Eric Chiang, Uziel Ferreira Dos Santos, Roberto
+ Ribeiro, Thomas Morgan, Morgan Haggar, Eric Chiang, Roberto
  Kunzler, Russam Cerqueira Lima, que me abraçaram pelo que sou, aceitaram quem eu sou e
  torcem por mim em tudo que procuro fazer, me trazendo confiança, auto-estima e me fazem
  me olhar como alguém importante. Leticia Gadelha Braga onde me apoiou, acreditou em mim
