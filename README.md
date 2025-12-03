@@ -1,5 +1,36 @@
 <!-- README.md (English) -->
-# Released-Files-TCBK40
+# Dedico a:
+Este trabalho se tornou um marco em minha vida em vários sentidos. Vindo
+ primeiramente no pensamento de me desafiar, ver até que ponto naquele momento eu
+ conseguiria me superar sobre aquele desafio, e assim é a nossa vida. Comecei a aprender a
+ apreciar a trajetória, apreciar o processo, com as dificuldades e me mantendo firme a
+ superá-las, não desistindo e procurando aprimorar cada vez mais, a recompensa vem.
+ Este trabalho é resultado de não duvidar de si mesmo, lutar a seus sonhos mesmo em
+ momentos difíceis e um resultado onde você mesmo cria o seu mérito, muitas vezes as coisas
+ na vida veem de maneira em que até mesmo você duvida de seu próprio potencial, você não
+ vê o tanto que você passou e fez acontecer, e aí vem as pessoas de seu convívio para grande
+ parte das vezes bater em suas costas e falar que aquilo que criou foi algo que acendeu uma
+ luz.
+ Este trabalho é dedicado a todos que se sentem inseguros em criar e buscar algo
+ mesmo que sozinhos, enfrentar desafios de cabeça erguida, caindo mas sem exitar em
+ levantar, a todos que buscam criar, elaborar, escrever e realizar sua história e sonhos.
+ Dedico esse trabalho a todos que fizeram e fazem parte de minha jornada de querer
+ criar, impactar, mostrar um pouco de meu potencial, a minha tentativa de entregar o melhor.
+ Obrigado em especial minha mãe, Cristiana do Rego Barros Braga que nunca duvidou de
+ mim e me ajudou nos momentos onde mais queria fazer acontecer mas não possui meios de
+ realizar, nunca me negou em eu seguir no que queria, sempre esteve e está ao meu lado. A
+ todas irmãs de minha mãe, Ana Cristina do Rego Barros Braga e Adriana do Rego Barros
+ Braga por participarem e observarem toda minha evolução neste e em outros projetos e como
+ pessoa. Meu pai João Batista Dantas Feijó, que proporcionou toda estrutura e estabilidade
+ financeira a minha carreira e minha constante busca em criar meu futuro.
+ Aos meus amigos, em especial João Paulo Almeida, Queops Firmino Costa, Cayo
+ Ribeiro, Thomas Morgan, Morgan Haggar, Eric Chiang, Uziel Ferreira Dos Santos, Roberto
+ Kunzler, Russam Cerqueira Lima, que me abraçaram pelo que sou, aceitaram quem eu sou e
+ torcem por mim em tudo que procuro fazer, me trazendo confiança, auto-estima e me fazem
+ me olhar como alguém importante. Leticia Gadelha Braga onde me apoiou, acreditou em mim
+ e viu meu potencial, acendeu meu lado emocional me tornando mais humano.
+
+# Released-Files-TCBK40 (OLD)
 
 # TCBK40
 Welcome to the TCBK40 project, a 40% Custom Keyboard with RGB, lovingly crafted from scratch by Tuka Customs. Inspired by the HHK8 layout, this keyboard aims to be a compact and satisfactory option for both community testing of the QMK Firmware and as a daily driver for tech enthusiasts and creators.
